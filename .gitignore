@@ -1,0 +1,9 @@
+### VS Code ###
+.vscode/
+
+### Hugo ###
+# Generated files by hugo
+/public/
+
+# Temporary lock file while building
+.hugo_build.lock
