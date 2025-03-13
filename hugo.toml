@@ -1,4 +1,4 @@
-baseURL = "https://Sn1cket.github.io/psychotherapie-website/"
+baseURL = "https://sn1cket.github.io/psychotherapie-website/"
 languageCode = "en-us"
 title = "Hugo Profile"
 theme = "hugo-profile"
